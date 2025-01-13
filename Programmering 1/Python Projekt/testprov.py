@@ -21,5 +21,4 @@ def math():
     else:
         print("Rätt svar! Du fick 1 poäng.")
 
-
 math()

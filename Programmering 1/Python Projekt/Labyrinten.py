@@ -62,5 +62,4 @@ def start_game():
     print("Utforska labyrinten och hitta vägen ut.")
     room_a()
 
-# Starta spelet
 start_game()
